@@ -1,5 +1,5 @@
 Hi i'm Riyuuji...
-im just dumping my weird projects on here c:
+im just dumping my projects on here c:
 
 <!---
 Ri7uuji/Ri7uuji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
