@@ -1,5 +1,5 @@
 Hi i'm Riyuuji...
-im just dumping my projects on here c:
+i started using GitHub to backup my projects somewhere after losing all my data ..
 
 <!---
 Ri7uuji/Ri7uuji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
