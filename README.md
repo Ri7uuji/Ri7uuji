@@ -1,5 +1,5 @@
 Hi i'm Riyuuji...
-i started using GitHub to backup my projects somewhere after losing all my data ..
+i started using GitHub to backup my projects somewhere after losing all my data ... so that i wont lose my projects ever again!
 
 <!---
 Ri7uuji/Ri7uuji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
